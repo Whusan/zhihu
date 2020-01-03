@@ -1,0 +1,62 @@
+2019-12-30 16:57:13 main Proxool 0.9.1 (23-Aug-2008 11:10)
+2019-12-30 16:57:15 main Proxool statistics legend: "s - r  (a/t/o)" > s=served, r=refused (only shown if non-zero), a=active, t=total, o=offline (being tested)
+2019-12-30 16:57:15 Prototyper Proxool statistics legend: "s - r  (a/t/o)" > s=served, r=refused (only shown if non-zero), a=active, t=total, o=offline (being tested)
+2019-12-30 16:57:17 pool-1-thread-1 知乎	最新数据	采集开始	关键词:a
+2019-12-30 16:57:17 pool-1-thread-3 知乎	最新数据	采集开始	关键词:I
+2019-12-30 16:57:17 pool-1-thread-7 知乎	最新数据	采集开始	关键词:able
+2019-12-30 16:57:17 pool-1-thread-11 知乎	最新数据	采集开始	关键词:above
+2019-12-30 16:57:17 pool-1-thread-15 知乎	最新数据	采集开始	关键词:absence
+2019-12-30 16:57:17 pool-1-thread-19 知乎	最新数据	采集开始	关键词:absolute
+2019-12-30 16:57:17 pool-1-thread-5 知乎	最新数据	采集开始	关键词:ability
+2019-12-30 16:57:17 pool-1-thread-21 知乎	最新数据	采集开始	关键词:accept
+2019-12-30 16:57:17 pool-1-thread-13 知乎	最新数据	采集开始	关键词:abroad
+2019-12-30 16:57:17 pool-1-thread-17 知乎	最新数据	采集开始	关键词:absent
+2019-12-30 16:57:17 pool-1-thread-9 知乎	最新数据	采集开始	关键词:about
+2019-12-30 16:57:17 pool-1-thread-16 知乎	历史数据	采集开始	关键词:absence
+2019-12-30 16:57:17 pool-1-thread-20 知乎	历史数据	采集开始	关键词:absolute
+2019-12-30 16:57:17 pool-1-thread-6 知乎	历史数据	采集开始	关键词:ability
+2019-12-30 16:57:17 pool-1-thread-23 知乎	最新数据	采集开始	关键词:accident
+2019-12-30 16:57:17 pool-1-thread-24 知乎	历史数据	采集开始	关键词:accident
+2019-12-30 16:57:17 pool-1-thread-2 知乎	历史数据	采集开始	关键词:a
+2019-12-30 16:57:17 pool-1-thread-22 知乎	历史数据	采集开始	关键词:accept
+2019-12-30 16:57:17 pool-1-thread-18 知乎	历史数据	采集开始	关键词:absent
+2019-12-30 16:57:17 pool-1-thread-27 知乎	最新数据	采集开始	关键词:account
+2019-12-30 16:57:17 pool-1-thread-28 知乎	历史数据	采集开始	关键词:account
+2019-12-30 16:57:17 pool-1-thread-29 知乎	最新数据	采集开始	关键词:accuse
+2019-12-30 16:57:17 pool-1-thread-8 知乎	历史数据	采集开始	关键词:able
+2019-12-30 16:57:17 pool-1-thread-12 知乎	历史数据	采集开始	关键词:above
+2019-12-30 16:57:17 pool-1-thread-26 知乎	历史数据	采集开始	关键词:accord
+2019-12-30 16:57:17 pool-1-thread-30 知乎	历史数据	采集开始	关键词:accuse
+2019-12-30 16:57:17 pool-1-thread-10 知乎	历史数据	采集开始	关键词:about
+2019-12-30 16:57:17 pool-1-thread-14 知乎	历史数据	采集开始	关键词:abroad
+2019-12-30 16:57:17 pool-1-thread-25 知乎	最新数据	采集开始	关键词:accord
+2019-12-30 16:57:17 pool-1-thread-4 知乎	历史数据	采集开始	关键词:I
+2019-12-30 16:57:20 pool-1-thread-15 知乎	最新数据	结束采集	关键词: absence
+2019-12-30 16:57:20 pool-1-thread-15 知乎	最新数据	采集开始	关键词:accustom
+2019-12-30 16:57:20 pool-1-thread-17 知乎	最新数据	结束采集	关键词: absent
+2019-12-30 16:57:20 pool-1-thread-17 知乎	历史数据	采集开始	关键词:accustom
+2019-12-30 16:57:20 pool-1-thread-29 知乎	最新数据	结束采集	关键词: accuse
+2019-12-30 16:57:20 pool-1-thread-29 知乎	最新数据	采集开始	关键词:across
+2019-12-30 16:57:21 pool-1-thread-15 知乎	最新数据	结束采集	关键词: accustom
+2019-12-30 16:57:21 pool-1-thread-15 知乎	历史数据	采集开始	关键词:across
+2019-12-30 16:57:27 pool-1-thread-29 知乎	最新数据	第1页	关键词: across	共有 4	实采 4	存在 0
+2019-12-30 16:57:28 pool-1-thread-13 知乎	最新数据	第1页	关键词: abroad	共有 2	实采 9	存在 0
+2019-12-30 16:57:30 pool-1-thread-19 知乎	最新数据	第1页	关键词: absolute	共有 5	实采 36	存在 0
+2019-12-30 16:57:31 pool-1-thread-5 知乎	最新数据	第1页	关键词: ability	共有 3	实采 25	存在 1
+2019-12-30 16:57:31 pool-1-thread-13 知乎	最新数据	结束采集	关键词: abroad
+2019-12-30 16:57:31 pool-1-thread-13 知乎	最新数据	采集开始	关键词:act
+2019-12-30 16:57:33 pool-1-thread-29 知乎	最新数据	结束采集	关键词: across
+2019-12-30 16:57:33 pool-1-thread-29 知乎	历史数据	采集开始	关键词:act
+2019-12-30 16:57:35 pool-1-thread-19 知乎	最新数据	结束采集	关键词: absolute
+2019-12-30 16:57:35 pool-1-thread-19 知乎	最新数据	采集开始	关键词:action
+2019-12-30 16:57:36 pool-1-thread-21 知乎	最新数据	第1页	关键词: accept	共有 4	实采 24	存在 0
+2019-12-30 16:57:37 pool-1-thread-5 知乎	最新数据	结束采集	关键词: ability
+2019-12-30 16:57:37 pool-1-thread-5 知乎	历史数据	采集开始	关键词:action
+2019-12-30 16:57:37 pool-1-thread-11 知乎	最新数据	第1页	关键词: above	共有 7	实采 67	存在 0
+2019-12-30 16:57:37 pool-1-thread-27 知乎	最新数据	第1页	关键词: account	共有 12	实采 33	存在 1
+2019-12-30 16:57:41 pool-1-thread-11 知乎	最新数据	结束采集	关键词: above
+2019-12-30 16:57:41 pool-1-thread-11 知乎	最新数据	采集开始	关键词:active
+2019-12-30 16:57:41 pool-1-thread-27 知乎	最新数据	结束采集	关键词: account
+2019-12-30 16:57:41 pool-1-thread-27 知乎	历史数据	采集开始	关键词:active
+2019-12-30 16:57:43 pool-1-thread-21 知乎	最新数据	结束采集	关键词: accept
+2019-12-30 16:57:43 pool-1-thread-21 知乎	最新数据	采集开始	关键词:actor

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<something-else-entirely>
+	<!-- 采集数据库 -->
+	<proxool>
+		<alias>user_caiji</alias>
+		<driver-url>jdbc:mysql://127.0.0.1:3306/test?useSSL=false</driver-url>
+		<driver-class>com.mysql.jdbc.Driver</driver-class>
+		<driver-properties>
+			<property name="user" value="root" />
+			<property name="password" value="root" />
+		</driver-properties>
+		<minimum-connection-count>1</minimum-connection-count>
+		<maximum-connection-count>100</maximum-connection-count>
+		<simultaneous-build-throttle>20</simultaneous-build-throttle>
+		<prototype-count>2</prototype-count>
+		<test-before-use>true</test-before-use>
+		<house-keeping-test-sql>select 1 from dual</house-keeping-test-sql>
+	</proxool>
+
+	<proxool>
+		<alias>db_caiji</alias>
+	<!-- 	<driver-url>jdbc:mysql://127.0.0.1:3306/data_pool_caiji?useSSL=false</driver-url> -->
+		<driver-url>jdbc:mysql://127.0.0.1:3306/test?useSSL=false</driver-url>
+		<driver-class>com.mysql.jdbc.Driver</driver-class>
+		<driver-properties>
+			<property name="user" value="root" />
+			<property name="password" value="root" />
+		</driver-properties>
+		<minimum-connection-count>1</minimum-connection-count>
+		<maximum-connection-count>100</maximum-connection-count>
+		<simultaneous-build-throttle>20</simultaneous-build-throttle>
+		<prototype-count>2</prototype-count>
+		<test-before-use>true</test-before-use>
+		<house-keeping-test-sql>select 1 from dual</house-keeping-test-sql>
+	</proxool>
+
+	<proxool>
+		<alias>db_data</alias>
+	<!-- 	<driver-url>jdbc:mysql://127.0.0.1:3306/data_pool_caiji?useSSL=false</driver-url> -->
+		<driver-url>jdbc:mysql://127.0.0.1:3306/test?useSSL=false</driver-url>
+		<driver-class>com.mysql.jdbc.Driver</driver-class>
+		<driver-properties>
+			<property name="user" value="root" />
+			<property name="password" value="root" />
+		</driver-properties>
+		<minimum-connection-count>1</minimum-connection-count>
+		<maximum-connection-count>100</maximum-connection-count>
+		<simultaneous-build-throttle>20</simultaneous-build-throttle>
+		<prototype-count>2</prototype-count>
+		<test-before-use>true</test-before-use>
+		<house-keeping-test-sql>select 1 from dual</house-keeping-test-sql>
+	</proxool>
+
+</something-else-entirely>
