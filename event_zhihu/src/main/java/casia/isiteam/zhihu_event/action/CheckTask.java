@@ -11,7 +11,7 @@ import casia.isiteam.zhihu_event.model.EventKeywords;
 public class CheckTask implements Runnable {
 
 	ArrayList<EventKeywords> hostList = new ArrayList<EventKeywords>();
-
+	private int num=0;
 	CheckTask(ArrayList<EventKeywords> hostList) {
 		this.hostList = hostList;
 	}
